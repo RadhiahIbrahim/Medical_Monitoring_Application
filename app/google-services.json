@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361107798093",
+    "project_id": "medical-monitoring-appli-cdc0d",
+    "storage_bucket": "medical-monitoring-appli-cdc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361107798093:android:e6b3b4bc856caf86fe0404",
+        "android_client_info": {
+          "package_name": "com.example.medicalmonitoringapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361107798093-cvosdmk4d9v6m0sepes1o65d79ekloi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOm3xDUNkxSOMBbuZe0G0_iLMkE71M-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361107798093-cvosdmk4d9v6m0sepes1o65d79ekloi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
