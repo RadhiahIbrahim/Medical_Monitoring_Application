@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Medical Monitoring Application</string>
     <string name="title_activity_map">Map</string>
+    <string name="link">
+        <a href = "https://github.com/RadhiahIbrahim/Medical_Monitoring_Application.git">Github Link</a>
+    </string>
 </resources>
