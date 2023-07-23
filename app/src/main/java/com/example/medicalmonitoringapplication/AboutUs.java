@@ -26,5 +26,7 @@ public class AboutUs extends AppCompatActivity {
 
             }
         });
+        TextView textView = findViewById(R.id.link);
+        textView.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }
